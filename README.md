@@ -13,5 +13,5 @@
 https://azizuits.github.io/tripway/
 
 # Screenshot
-<img src="screenshot.jpeg" alt="Tripway">
+<img src="screenshot.jpg" alt="Tripway">
 
