@@ -1,0 +1,133 @@
+@media screen and (max-width: 992px){
+	.mail-phone{
+	width: 40%;
+	}
+	.logo{
+	width: 13%;
+	}
+	.about-left h1{
+		font-size: 25px;
+		}
+	.about-right{
+		width: 25%;
+	}
+	.about-right a{
+			padding: 10px 30px;
+
+	}
+	.contact-right{
+		width: 25%;
+	}
+	.subscribe-right{
+		width: 30%;
+
+	}
+	.subscribe-right input[type="text"]{
+		margin-right: 10px;
+	}
+	.copyright-right{
+	width: 40%;
+	}
+}
+@media screen and (max-width: 768px){
+	.about{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.about-left{
+		width: 30%;
+	}
+	.about-middle{
+		width: 60%;
+	}
+	.about-middle p{
+		text-align: justify;
+	}
+	.about-right{
+		width: 100%;
+	}
+	.about-right a{
+		margin-top: 10px;
+	}
+
+	.advice-part{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.advice{
+		width: 45%;
+		margin-bottom: 20px;
+	}
+
+	.contact{
+		display: flex;
+		justify-content: space-between;
+	}
+	.contact-left{
+		width:50%;
+		display: flex;
+		justify-content: flex-start;
+	}
+	.contact-left h1{
+		font-size: 16px;
+	}
+	.contact-right{
+		display: flex;
+		justify-content: flex-end;
+		width: 40%;
+	}
+
+	.popular{
+		display: flex;
+	}
+	.popular-content{
+		width: 48%;
+	}
+
+	.subscribe-left{
+		width: 50%;
+		display: flex;
+		justify-content: flex-start;
+	}
+	.subscribe-left h1{
+		color: #000;
+		font-size: 16px;
+		font-weight: 400;
+	}
+	.subscribe-right{
+		width: 40%;
+		display: flex;
+		justify-content: space-between;
+	}
+	.testimonial-content{
+	width: 100%;
+	}
+	.footer-menu{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.footer-left-menu{
+		width: 100%;
+		display: flex;
+		justify-content: center;
+	}
+	.footer-menu >.sociallink{
+		margin-top: 15px;
+		width: 100%;
+		display: flex;
+		justify-content: center;
+	}
+	.footer-copyright{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.copyright-left{
+		width: 100%;
+		text-align: center;
+	}
+	.copyright-right{
+		width: 100%	;
+		text-align: center;
+	}
+
+}
